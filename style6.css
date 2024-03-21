@@ -1,0 +1,592 @@
+.img {
+    width: 90px;
+    height: 30px;
+    position: relative;
+    top: 5px;
+}
+
+.href {
+    color: #000;
+    text-decoration: none;
+    position: relative;
+    top: 5px;
+    font-weight: 400;
+}
+
+.href:hover {
+    color: rgb(1, 94, 1);
+}
+
+.in {
+    display: flex;
+    margin: 10px;
+}
+
+.div {
+    margin: 10px;
+}
+
+.input {
+    position: relative;
+    left: 400px;
+}
+
+.ion {
+    position: relative;
+    left: 5px;
+    top: 6px;
+    font-size: small;
+}
+
+.sea {
+    border-radius: 25px;
+    border-color: gray;
+    height: 40px;
+    width: 200px;
+    position: relative;
+    bottom: 5px;
+}
+
+.lo {
+    border-radius: 10px;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.sign {
+    border-radius: 25px;
+    background-color: #108a00;
+    border-color: transparent;
+    box-sizing: border-box;
+    width: 80px;
+    height: 40px;
+    position: relative;
+    bottom: 5px;
+    color: #fff;
+}
+
+.sign:hover {
+    background-color: #14a800;
+}
+
+.hr {
+    position: relative;
+    bottom: 18px;
+}
+
+.d {
+    display: flex;
+}
+
+.di {
+    margin-left: 15px;
+}
+
+.a {
+    color: #000;
+    text-decoration: none;
+}
+
+.a:hover {
+    color: #14a800;
+    text-decoration: underline;
+}
+
+.drop {
+    border-color: transparent;
+    margin-left: 15px;
+}
+
+.mar {
+    margin: 50px;
+    margin-left: 50px;
+}
+
+.how {
+    color: #14a800;
+    font-size: 70px;
+    font-family: serif;
+    font-weight: bold;
+}
+
+.b {
+    position: relative;
+    bottom: 20px;
+}
+
+.for {
+    position: relative;
+    bottom: 20px;
+    font-size: larger;
+    color: #5e6d55;
+}
+
+.sig {
+    border-radius: 25px;
+    background-color: #108a00;
+    border-color: transparent;
+    box-sizing: border-box;
+    width: 120px;
+    height: 40px;
+    position: relative;
+    bottom: 5px;
+    color: #fff;
+}
+
+.sig:hover {
+    background-color: #14a800;
+}
+
+.saa {
+    width: 470px;
+    position: relative;
+    left: 60%;
+    bottom: 310px;
+}
+
+.up {
+    position: relative;
+    bottom: 300px;
+}
+
+.fro {
+    position: relative;
+    bottom: 15px;
+    font-size: larger;
+    color: #5e6d55;
+}
+
+.tr {
+    margin-left: 50px;
+}
+
+.ig {
+    position: relative;
+    bottom: 10px;
+    right: 15px;
+    display: inline-block;
+}
+
+.ij {
+    position: relative;
+    bottom: 10px;
+}
+
+.air {
+    width: 100px;
+    height: 30px;
+}
+
+.aip {
+    position: relative;
+    bottom: 10px;
+    right: 60px;
+}
+
+.bis {
+    position: relative;
+    bottom: 10px;
+    right: 30px;
+}
+
+.video {
+    position: relative;
+    bottom: 300px;
+    margin-left: 30px;
+    height: 400px;
+}
+
+.upw {
+    position: relative;
+    bottom: 550px;
+    left: 500px;
+    font-family: serif;
+    font-size: 40px;
+}
+
+.no {
+    position: relative;
+    bottom: 550px;
+    left: 500px;
+    color: #000;
+}
+
+.ipod {
+    margin-right: 8px;
+}
+
+.bold {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.p {
+    margin-left: 22px;
+}
+
+.u {
+    position: relative;
+    bottom: 80px;
+}
+
+.si {
+    border-radius: 25px;
+    background-color: #108a00;
+    border-color: transparent;
+    box-sizing: border-box;
+    width: 150px;
+    height: 40px;
+    position: relative;
+    bottom: 550px;
+    left: 510px;
+    color: #fff;
+}
+
+.si:hover {
+    background-color: #14a800;
+}
+
+.to {
+    border-radius: 25px;
+    background-color: transparent;
+    border-color: #108a00;
+    box-sizing: border-box;
+    width: 150px;
+    height: 40px;
+    position: relative;
+    bottom: 590px;
+    left: 670px;
+    color: #108a00;
+}
+
+.to:hover {
+    background-color: rgb(245, 235, 235);
+}
+
+.str {
+    margin-right: 500px;
+}
+
+.bro {
+    font-family: serif;
+}
+
+.tal {
+    font-size: 42px;
+    position: relative;
+    bottom: 600px;
+    margin-left: 30px;
+}
+
+.loo {
+    font-size: 16px;
+    position: relative;
+    bottom: 600px;
+    margin-left: 30px;
+}
+
+.job {
+    color: #108a00;
+    text-decoration: underline;
+}
+
+.job:hover {
+    color: #14a800;
+}
+
+.it {
+    width: 260px;
+    height: 120px;
+    background-color: rgb(235, 233, 233);
+    border-radius: 8px;
+    position: relative;
+    bottom: 580px;
+    left: 30px;
+    margin: 10px;
+}
+
+.dev {
+    margin-left: 5px;
+    font-size: x-large;
+}
+
+.ski {
+    margin-left: 5px;
+    font-size: medium;
+}
+
+.star {
+    color: #14a800;
+    position: relative;
+    top: 1px;
+}
+
+.lls {
+    margin-left: 30px;
+}
+
+.ai {
+    position: relative;
+    bottom: 710px;
+    left: 350px;
+}
+
+.des {
+    position: relative;
+    bottom: 840px;
+    left: 680px;
+}
+
+.sales {
+    position: relative;
+    bottom: 970px;
+    left: 1000px;
+}
+
+.wr {
+    position: relative;
+    bottom: 900px;
+}
+
+.we {
+    position: relative;
+    bottom: 1030px;
+}
+
+.wb {
+    position: relative;
+    bottom: 1160px;
+}
+
+.wa {
+    position: relative;
+    bottom: 1290px;
+}
+
+.it:hover {
+    background-color: rgb(228, 225, 225);
+}
+
+.enter {
+    background-color: #13544e;
+    position: relative;
+    bottom: 1250px;
+    border-radius: 10px;
+    margin: 40px;
+    height: 600px;
+}
+
+.suite {
+    font-size: 22px;
+    margin: 20px;
+    color: #fff;
+    position: relative;
+    top: 30px;
+}
+
+.find {
+    font-size: 42px;
+    margin: 20px;
+}
+
+.th {
+    color: #fff;
+}
+
+.good {
+    color: #91e6b3;
+    font-family: serif;
+}
+
+.top {
+    color: #fff;
+    margin: 20px;
+}
+
+.exp {
+    margin: 20px;
+    color: #fff;
+}
+
+.ham {
+    color: #91e6b3;
+}
+
+.con {
+    position: relative;
+    left: 10px;
+    display: inline-block;
+}
+
+.lea {
+    border-radius: 25px;
+    border-color: transparent;
+    box-sizing: border-box;
+    width: 150px;
+    height: 40px;
+    background-color: #fff;
+    color: #13544e;
+    margin: 10px;
+}
+
+.en {
+    width: 500px;
+    height: 600px;
+    position: relative;
+    bottom: 576px;
+    left: 780px;
+    border-radius: 10px;
+}
+
+.ente {
+    background-image: url(./Images/enterprise-2023.webp);
+    position: relative;
+    bottom: 1250px;
+    border-radius: 10px;
+    margin: 40px;
+    height: 600px;
+}
+
+.log {
+    background-color: #108a00;
+    color: #fff;
+    width: 300px;
+    height: 150px;
+}
+
+.fin {
+    font-family: serif;
+    font-weight: bold;
+}
+
+.lar {
+    position: relative;
+    top: 50px;
+}
+
+.pos {
+    border-radius: 10px;
+    position: relative;
+    top: 100px;
+    left: 60px;
+}
+
+.ju {
+    font-weight: bolder;
+    font-size: xx-large;
+    margin: 5px;
+}
+
+.talk {
+    margin: 5px;
+    font-size: medium;
+}
+
+.buy {
+    border-radius: 10px;
+    position: relative;
+    bottom: 55px;
+    margin-left: 450px;
+}
+
+.get {
+    border-radius: 10px;
+    position: relative;
+    bottom: 210px;
+    margin-left: 850px;
+}
+
+.log:hover {
+    color: #14a800;
+    background-color: #fff;
+}
+
+.ent {
+    background-color: #f2f7f2;
+    position: relative;
+    border-radius: 10px;
+    height: 600px;
+    right: 45px;
+    font-size: 40px;
+    margin: 40px;
+    color: #000;
+    position: relative;
+    bottom: 150px;
+    width: 800px;
+}
+
+.turn {
+    margin: 5px;
+    font-family: serif;
+    font-size: 50px;
+}
+
+.work {
+    margin: 10px;
+    font-family: serif;
+    font-size: 50px;
+}
+
+.ha {
+    color: #000;
+    font-size: smaller;
+    position: relative;
+    top: 10px;
+}
+
+.co {
+    color: #000;
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 35px;
+}
+
+.any {
+    color: #000;
+    font-size: medium;
+    position: relative;
+    left: 60px;
+}
+
+.head {
+    width: 280px;
+    height: 580px;
+    position: relative;
+    bottom: 590px;
+    left: 550px;
+    border-radius: 10px;
+}
+
+.are {
+    background-color: #14a800;
+    border-radius: 10px;
+    height: 600px;
+    width: 400px;
+    position: relative;
+    bottom: 790px;
+    left: 850px;
+}
+
+.re {
+    color: #fff;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin: 10px;
+    position: relative;
+    top: 250px;
+}
+
+.on {
+    color: #fff;
+    font-size: larger;
+    margin: 10px;
+    font-weight: bold;
+    position: relative;
+    top: 250px;
+}
+
+.out {
+    color: #fff;
+    position: relative;
+    top: 2px;
+}
